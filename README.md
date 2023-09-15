@@ -1,2 +1,2 @@
-# portfolio
- portfolio web site in django
+# portfolioDJANGO
+ Django Portfolio Web Site
